@@ -1,2 +1,2 @@
-# MyFirstRepositary
+# MyFirstRepository
 Test one.
